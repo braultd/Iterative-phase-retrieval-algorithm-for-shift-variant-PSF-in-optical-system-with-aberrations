@@ -4,7 +4,7 @@
 2. Physics Department, University of Zurich, Winterthurerstrasse 190, 8057 Zurich, Switzerland.
 3. Paul Scherrer Institute, Forschungsstrasse 111, 5232 Villigen, Switzerland.
 
-Corresponding author: corinne.fournier@univ-st-etienne.fr
+Corresponding author: dylan.brault@telecom-st-etienne.fr
 #
 The ``Data`` folder can be downloaded at the following adress: https://drive.google.com/file/d/1zrVA5jfapa9p2hSyF9bAOHa3wxlPJ6bP/view?usp=drive_link
 
