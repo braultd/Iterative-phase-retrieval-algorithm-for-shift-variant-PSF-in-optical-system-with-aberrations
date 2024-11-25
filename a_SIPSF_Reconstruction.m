@@ -37,7 +37,7 @@ padimg=@(x) padarray(x,[pix.nb_y/2 pix.nb_x/2],1);
 disp('Loading the shift-invariant PSF...')
 load('./Data/PSF_FOV_center.mat')
 
-% Number of iteration of Fienup algorithm
+% Number of iterations of the IPR algorithm
 n_iter=200;
 
 % Intialization of the wavefront in the hologram plane

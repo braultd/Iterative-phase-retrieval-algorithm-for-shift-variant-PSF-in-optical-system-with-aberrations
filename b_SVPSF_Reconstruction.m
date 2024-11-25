@@ -46,7 +46,7 @@ Rank=10; % Rank of the approximation
 [m,w]=SVPSF_ConvolutionKernel_WeightsComputation(U,S,V,X_sub,Y_sub,X_field,Y_field);
 clear U;clear V;clear S; % Clearing the SVD variable to save memory
 
-% Number of iteration of Fienup algorithm
+% Number of iterations of the IPR algorithm
 n_iter=40;
 
 % Intialization of the wavefront in the hologram plane
