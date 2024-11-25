@@ -5,11 +5,11 @@
 3. Paul Scherrer Institute, Forschungsstrasse 111, 5232 Villigen, Switzerland.
 
 Corresponding author: corinne.fournier@univ-st-etienne.fr
-
+#
 The ``Data`` folder can be downloaded at the following adress: https://drive.google.com/file/d/1zrVA5jfapa9p2hSyF9bAOHa3wxlPJ6bP/view?usp=drive_link
 
 #
-In this folder you will find all the functions and a data example to perform SIPSF and SVPSF reconstructions with Fienup ER algorithm.
+In this repository you will find all the functions and a data example to perform SIPSF and SVPSF reconstructions with Fienup ER algorithm.
 
 + To run an SIPSF reconstruction, use ``SIPSF_Reconstruction.m`` file
 + To run an SVPSF reconstruction, use ``SVPSF_Reconstruction.m`` file
